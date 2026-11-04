@@ -73,7 +73,7 @@ The dashboard helps identify:
 Sales-Data-Analysis-Dashboard/
 │
 ├── Sales_Dashboard.xlsx
-├── Dashboard_Screenshot.png
+├── Dashboard.png
 └── README.md
 ```
 
